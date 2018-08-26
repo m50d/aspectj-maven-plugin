@@ -184,6 +184,14 @@
         </dependency>
     </dependencies>
 
+  <distributionManagement>
+    <repository>
+                <id>bintray-lmm-maven</id>
+                <name>lmm-maven</name>
+                <url>https://api.bintray.com/maven/lmm/maven/aspectj-maven-plugin/;publish=1</url>
+                </repository>
+                </distributionManagement>
+
   <build>
     <plugins>
       <plugin>
