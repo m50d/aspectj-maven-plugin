@@ -10,7 +10,7 @@
 
   <groupId>com.github.m50d</groupId>
   <artifactId>aspectj-maven-plugin</artifactId>
-  <version>1.11.1-SNAPSHOT</version>
+  <version>1.11.1</version>
   <packaging>maven-plugin</packaging>
 
   <name>Mojo's AspectJ Maven Plugin</name>
@@ -46,7 +46,7 @@
     <connection>scm:git:https://github.com/m50d/aspectj-maven-plugin.git</connection>
     <developerConnection>scm:git:ssh://git@github.com/m50d/aspectj-maven-plugin.git</developerConnection>
     <url>https://github.com/mojohaus/aspectj-maven-plugin</url>
-    <tag>HEAD</tag>
+    <tag>aspectj-maven-plugin-1.11.1</tag>
   </scm>
 
   <developers>
